@@ -6,7 +6,7 @@
 
 [CAUTION]
 ====
-This source is *not* for production use due to design contraints, e.g. infinite in-memory collection of lines read and no fault recovery.
+This source is *not* for production use due to design constraints, e.g. infinite in-memory collection of lines read and no fault recovery.
 
 `MemoryStream` is designed primarily for unit tests, tutorials and debugging.
 ====
